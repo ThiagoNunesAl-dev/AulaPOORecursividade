@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.exe
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.deps.json
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.runtimeconfig.json
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.dll
+D:\Thiago\Projetos\C#\AulaPOORecursividade\bin\Debug\netcoreapp3.1\AulaPOORecursividade.pdb
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.dll
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.pdb
+D:\Thiago\Projetos\C#\AulaPOORecursividade\obj\Debug\netcoreapp3.1\AulaPOORecursividade.genruntimeconfig.cache
